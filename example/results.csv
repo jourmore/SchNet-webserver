@@ -1,0 +1,5 @@
+RF,GBDT,CatBoost,LightGBM,XGBoost,Ensemble,Probability
+1,0,1,1,0,1,0.74
+1,1,1,1,1,1,0.84
+1,0,0,1,0,0,0.22
+0,0,0,0,0,0,0.01
