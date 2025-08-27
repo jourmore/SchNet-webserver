@@ -1,5 +1,5 @@
 # SchNet-webserver
-## Paper: "Sense-of-Agency as Clinically Accessible Features for Schizophrenia Prediction: Interpretable Ensemble Machine Learning Research and Webserver Development." [_Link_]((https://doi.org/10.1016/j.ajp.2025.104674))
+## Paper: "Sense-of-Agency as Clinically Accessible Features for Schizophrenia Prediction: Interpretable Ensemble Machine Learning Research and Webserver Development." [_Link_](https://doi.org/10.1016/j.ajp.2025.104674)
 
 Post the latest webserver link for SchNet (Predicting Schizophrenia from Sense of Agency).
 ## Link to [SchNet-webserver (Release 2025.08.27)](http://1.15.44.91:100)
